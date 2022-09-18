@@ -2,3 +2,7 @@ p {
     font-size: 72;
     color: red;
 }
+
+.navbar {
+    background-color: brown !important;
+}
