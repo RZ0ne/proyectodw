@@ -1,8 +1,30 @@
+/*Usar "*" para darle propiedades a toda la pagina (html)*/
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 p {
     font-size: 72;
-    color: red;
+    /*color: red;*/
 }
 
 .navbar {
     background-color: brown !important;
+
+}
+
+.division p{
+    color:blue;
+}
+
+body {
+    height: 100%;
+    width: 300%;
+}
+
+.container-fluid {
+    
 }
